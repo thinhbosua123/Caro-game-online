@@ -1,5 +1,8 @@
 # Caro-game-online
 Đồ án Lập trình mạng - Trò chơi Caro trực tuyến
+#  Công nghệ sử dụng
+Java SWING, MySQL, Mô hình Client-Server
+Công cụ: Netbeans
 ## Kết Quả Đạt Được
 •	Dưới đây là một số tính năng cơ bản mà nhóm đã thực hiện được:
 	Thiết kế giao diện thân thiện với người dùng.
